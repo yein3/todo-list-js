@@ -1,0 +1,30 @@
+body{
+  font-family: Arial;
+  max-width: 600px;
+  margin: auto;
+}
+
+li{
+  padding:10px;
+  margin:5px 0;
+  list-style:none;
+  border-radius:5px;
+}
+
+.pending{
+  background:white;
+  border:1px solid #ccc;
+}
+
+.completed{
+  background:#a5f3a5;
+}
+
+input[type="text"]{
+  padding:8px;
+  width:70%;
+}
+
+button{
+  padding:8px;
+}
